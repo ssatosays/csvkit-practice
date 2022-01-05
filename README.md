@@ -1,2 +1,2 @@
 # csvkit-practice
-This repo is practice using csvkit.
+This repo is practice with csvkit.
